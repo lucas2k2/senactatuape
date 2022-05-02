@@ -1,1 +1,24 @@
 Criando um diretorio e arquivo no Github
+data; 27/04/2022
+
+testando a tomada da bancada do SENAC: 
+                 neutro com fase; 121,6V
+				 terra com fase; 122,5V
+
+testando a continuidade do cabo de força DESLIGADO
+              todos os testes deram 0,0v 
+			  
+testando o cabo de força ligado na tomada
+LIGADO a fonte de alimentação 
+                  neutro com fase; 122,0V
+				  terra com fase; 122,0V
+				  
+ligando a fonte de alimentação na tomada 
+                para ligar a fonte eu coloquei um clips no cabo verde + cabo preto 
+				
+testando a corrente continua da fonte 
+				 
+		VERMELHO;5,07V LARANJA;3,30V AMARELO;12,08V
+
+teste (testador de fonte) 
+-12.0V: 12.0   +12V2:12.1  5VSB:5.0  PG:280ms  +5V:5.0  +12V1:12.1  +3.3V:3.3		

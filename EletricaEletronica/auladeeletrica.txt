@@ -21,4 +21,8 @@ testando a corrente continua da fonte
 		VERMELHO;5,07V LARANJA;3,30V AMARELO;12,08V
 
 teste (testador de fonte) 
--12.0V: 12.0   +12V2:12.1  5VSB:5.0  PG:280ms  +5V:5.0  +12V1:12.1  +3.3V:3.3		
+-12.0V: 12.0   +12V2:12.1  5VSB:5.0  PG:280ms  +5V:5.0  +12V1:12.1  +3.3V:3.3
+
+testando 3 coolers + 3 leds na bread board 
+corrente 11,87v
+ampare 0.35

@@ -1,0 +1,19 @@
+testando as tensoes eletricas da tomada 
+        fase + neutro = 122,8
+        fase + terra = 123,8
+        terra + neutro = 00,4 
+
+testando continuidade do cabo de força 
+valores terra= 00,0
+neutro= 00,0
+fase= 00,0 
+
+testando a Resistencia do cabo de força 
+neutro = 00,4
+terra= 00,5
+fase =00,3 
+
+testando as tensoes eletricas no cabo 
+neutro + fase = 122,5v
+terra + fase = 122,6v 
+terra + neutro = 00,4v
